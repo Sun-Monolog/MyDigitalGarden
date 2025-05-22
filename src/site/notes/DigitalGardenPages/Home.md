@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DigitalGardenPages/Home/","tags":["gardenEntry"],"created":"2025-05-12T21:59:07.731+08:00","updated":"2025-05-12T22:21:46.567+08:00"}
+{"dg-publish":true,"permalink":"/DigitalGardenPages/Home/","tags":["gardenEntry"],"created":"2025-05-12T21:59:07.731+08:00","updated":"2025-05-22T15:15:25.438+08:00"}
 ---
 
 # Japanese
@@ -8,3 +8,4 @@
 [[Japanese/惯用语\|惯用语]]
 [[Japanese/副词\|副词]]
 [[Japanese/动词\|动词]]
+[[DigitalGardenPages/标日单词表\|标日单词表]]
