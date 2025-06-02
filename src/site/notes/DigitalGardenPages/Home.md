@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-pages/home/","tags":["gardenEntry"],"created":"2025-05-12T22:21:54.883+08:00","updated":"2025-05-22T15:15:29.590+08:00"}
+{"dg-publish":true,"permalink":"/DigitalGardenPages/Home/","tags":["gardenEntry"],"created":"2025-05-12T22:21:54.883+08:00","updated":"2025-05-22T15:15:29.590+08:00"}
 ---
 
 # Japanese
