@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/DigitalGardenPages/Home/","tags":["gardenEntry"]}
 ---
 
-
 ## 语校
-### 单词记录
-+ [[Japanese/语校/单词表/2025-10-10\|2025-10-10]]
+### 单词表
+- [[Japanese/语校/单词表/第6课\|第6课]]
 ---
-## 乱七八糟
-1. [[DigitalGardenPages/Japanese\|Japanese]]
